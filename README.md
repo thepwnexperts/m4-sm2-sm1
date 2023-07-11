@@ -4,7 +4,7 @@
 
 In the context of software development and security, input sensitization refers to the process of validating and filtering user inputs to ensure they meet certain criteria and prevent potential security vulnerabilities. There are two main types of input sensitization: inbound input sensitization and outbound input sensitization.
 
-### Inbound Input Sensitization
+### [Inbound Input Sensitization](https://github.com/thepwnexperts/Inbound-Input-Sensitization)
 
 Inbound input sensitization focuses on validating and filtering user inputs as they enter the system. It involves allowing only inputs that conform to a specific pattern or format, while blocking or sanitizing any potentially malicious or malformed inputs.
 
